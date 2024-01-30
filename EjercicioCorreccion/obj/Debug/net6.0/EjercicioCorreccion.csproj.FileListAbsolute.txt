@@ -1,0 +1,14 @@
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\bin\Debug\net6.0\EjercicioCorreccion.exe
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\bin\Debug\net6.0\EjercicioCorreccion.deps.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\bin\Debug\net6.0\EjercicioCorreccion.runtimeconfig.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\bin\Debug\net6.0\EjercicioCorreccion.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\bin\Debug\net6.0\EjercicioCorreccion.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\obj\Debug\net6.0\EjercicioCorreccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\obj\Debug\net6.0\EjercicioCorreccion.AssemblyInfoInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\obj\Debug\net6.0\EjercicioCorreccion.AssemblyInfo.cs
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\obj\Debug\net6.0\EjercicioCorreccion.csproj.CoreCompileInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\obj\Debug\net6.0\EjercicioCorreccion.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\obj\Debug\net6.0\refint\EjercicioCorreccion.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\obj\Debug\net6.0\EjercicioCorreccion.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\obj\Debug\net6.0\EjercicioCorreccion.genruntimeconfig.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\EjercicioCorreccion\obj\Debug\net6.0\ref\EjercicioCorreccion.dll
